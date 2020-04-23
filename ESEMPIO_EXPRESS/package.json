@@ -1,0 +1,25 @@
+{
+  "name": "esempio_express",
+  "version": "1.0.0",
+  "description": "Primo file",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeMero/Express-Mero.git"
+  },
+  "keywords": [
+    "maybe"
+  ],
+  "author": "Maybe Mero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaybeMero/Express-Mero/issues"
+  },
+  "homepage": "https://github.com/MaybeMero/Express-Mero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
